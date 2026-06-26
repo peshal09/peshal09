@@ -8,7 +8,7 @@ M.S. Computer Science @ Arizona State University (graduating May 2026). I build 
 - 🧠 Recent work: AI ticket automation (+30% throughput), full-stack platforms (−20% failed submissions)
 - 🎓 Instructional Assistant for Data Structures & Algorithms (mentored 100+ students)
 - 📜 AWS Certified Cloud Practitioner
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/[YOUR-LINKEDIN-HANDLE]) · pkanamaluru@gmail.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/peshal-srinivas-kanamaluru-692b773a7/) · pkanamaluru@gmail.com
 
 ---
 
