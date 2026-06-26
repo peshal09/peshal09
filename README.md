@@ -30,13 +30,4 @@ M.S. Computer Science @ Arizona State University (graduating May 2026). I build 
 | **[Large-Scale Movie Recommendation Engine](https://github.com/peshal09/movie-recommender)** | Recommender over 32M+ MovieLens ratings; collaborative + hybrid filtering | Python, Pandas, scikit-learn |
 | **[Scalable Football Data Platform](https://github.com/peshal09/football-data-platform)** | Fully normalized (3NF) PostgreSQL schema with indexing + query optimization | PostgreSQL, SQL |
 
----
 
-### 📊 GitHub Stats
-
-![Peshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=peshal09&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peshal09&layout=compact&hide_border=true)
-
----
-
-*Open to New Grad / Software Engineer roles — backend, AI engineering, and cloud.*
